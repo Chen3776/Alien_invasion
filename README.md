@@ -1,2 +1,1 @@
-# Alien_invasion
-相当于搬运《Python从入门到实践》书中代码
+**《python从入门到精通》**里的内容，一个简单的pygame，我只是搬运过来。存在这里吧。
